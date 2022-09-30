@@ -1,0 +1,12 @@
+.titulo-huno{
+    font-size: 2rem;
+}
+
+
+.inicio-huno{
+    @extend %estiloPrincipal;
+}
+
+.container-fluid .titulo-huno img{
+    width: 100px;
+  }

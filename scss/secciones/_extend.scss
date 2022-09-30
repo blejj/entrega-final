@@ -1,0 +1,11 @@
+%estiloPrincipal {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: italic;
+    color: rgb(29, 64, 129);
+}
+
+@mixin estiloTexto {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(29, 64, 129);
+    font-style: italic;
+}

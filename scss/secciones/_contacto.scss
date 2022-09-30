@@ -1,0 +1,9 @@
+.imgfondo-contacto{
+    background-image: url(../imagenes/fondocontacto.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.h1-contacto{
+    @include estiloTexto;
+}

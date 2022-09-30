@@ -1,0 +1,34 @@
+.navbar-nav .nav-link.active, .navbar-nav .show>.nav-link {
+    color: white;
+    font-size: 20px;
+  }
+  
+  .lista-nav ul li{
+    display: inline-block;
+    margin: 0 10px;
+    position: relative;
+  }
+  
+  .lista-nav ul li a{
+    color: white;
+    font-size: 1.2rem;
+  }
+  
+  .lista-nav ul li::before{
+    content: "";
+    height: 3px;
+    width: 0%;
+    background: rgba(165, 42, 42, 0.74);
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    transition: 0.4s ease-out;
+  }
+  
+  .lista-nav ul li:hover::before{
+    width: 100%;
+  }
+  
+  .navegador-total{
+    background-color: #1b3855;
+  }

@@ -1,0 +1,13 @@
+.imgfondo-nosotros{
+    background-image: url(../imagenes/oficina1.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.parrafo-nosotros{
+    background-color: rgb(248, 226, 198);
+}
+
+.h1-sobrenosotros{
+    @include estiloTexto;
+}

@@ -1,0 +1,9 @@
+.imgfondo-oficinas{
+    background-image: url(../imagenes/Imagen1.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.h1-oficinas{
+    @include estiloTexto;
+}
