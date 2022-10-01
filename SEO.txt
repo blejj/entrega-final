@@ -1,0 +1,37 @@
+Detalle de acciones de SEO implementadas en el sitio:
+
+1) Imagenes: 
+    a) Se utilizaron imagenes hosteadas en internet para disminuir el peso del proyecto.
+    b) Se subieron imagenes a Cloudinary y logo elaborado en Photoshop, luego se incorporaron al proyecto para disminuir el peso general.
+
+2) Títulos : Se ajustó el <title> en el head de cada HTML.
+
+3) Keywords: Se incorporó el <meta name> de keywords y descripción a cada html.
+    a) Index
+    <meta name="description" content="Somos los abogados del siglo XXI, y nuestra misión es ser el cambio que queremos ver reflejado en el mundo.">
+    <meta name="keywords" content="abogados, derecho, estudio, juridico">
+
+    b) Profesionales
+    <meta name="description" content="MQ Estudio Juridico, nuestros profesionales en el campo.">
+    <meta name="keywords" content="abogados, profesionales, especialista, derecho, laboral, familia, penal, civil">
+
+    c) Contacto
+    <meta name="description" content="MQ Estudio Juridico, contacta a los mejores profesionales del pais">
+    <meta name="keywords" content="abogados, contacto, ayuda, cliente">
+
+    d) Nuestras Oficinas
+    <meta name="description" content="MQ Estudio Juridico, ubicacion de nuestras oficinas.">
+    <meta name="keywords" content="abogados, oficinas, consultas, lugar">
+
+    e) Sobre Nosotros
+    <meta name="description" content="estudio jurídico contable que brinda asesoramiento y representación legal integral en las diversas ramas del derecho.">
+    <meta name="keywords" content="abogados, derecho, estudio, juridico, oficinas, contable">
+
+4) H1 : Se verificó que todas las páginas tengan H1 y no se repitan dentro del mismo html.
+
+5) <strong> : Se utilizó la etiqueta para resaltar palabras importantes en las secciones "Index" y "Sobre Nosotros".
+
+6) Sitemap : Se incorporó un sitemap para el navegador. (https://www.xml-sitemaps.com/)
+
+7) Se testeó Mobile friendly y arrojó resultado óptimo (https://search.google.com/test/mobile-friendly/result?id=uJgvnZhIv8Di3ZvMJV1euQ)
+
